@@ -1,0 +1,5 @@
+# Python virtual environment (created during dev setup)
+.venv/
+
+# Python bytecode caches
+*.py[cod]
